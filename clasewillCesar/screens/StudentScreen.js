@@ -6,7 +6,7 @@ export default function StudentScreen({ navigation }) {
   return (
     <View style={styles.container}>
       <StudentCard
-        name="César Will"
+        name="César Landaverde"
         age={21}
         image={require('../assets/student.jpg')} // Cambia por la ruta real de tu imagen
       />
